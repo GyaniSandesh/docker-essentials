@@ -1,4 +1,5 @@
-Hello everybody, it is me Sandesh Regmi and today I am so happy that I am able to complete and publish this quick docker essentials. So, make sure to go through all of these and I will upload this file in my github repository and make it public.
+ ## Hello everybody, it is me Sandesh Regmi and today I am so happy that I am able to complete and publish this quick docker essentials. 
+ #### Make sure to go through all of these and I will upload this file in my github repository and make it public.
 
 So, the question arises what the hell is docker?
 Well, docker is a platform that use your os-virtualization and serve you the packages in the form of container. Well, it is completely different from using virtualmachine in Vmware, virtualbox, KVM or other virtualization platforms. In the case of virtualmachine, the fixed part of memory and storage is allocated to your guest operating system whereas in the case of docker, the docker container is going to use all of the memory and storage in case of necessity and in the case of lack memory in your host operating system, it is going to use very less amount of memory.
