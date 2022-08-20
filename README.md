@@ -1,5 +1,18 @@
 # Docker 101
 
+## Index
+1. [What is Docker?](https://github.com/GyaniSandesh/docker-essentials#so-the-question-arises-what-the-hell-is-docker)
+2. [Difference Between Docker Image and Docker Container](https://github.com/GyaniSandesh/docker-essentials#what-is-the-difference-between-docker-image-and-docker-container)
+3. [How to Install Docker?](https://github.com/GyaniSandesh/docker-essentials#i-want-to-use-docker-for-my-project-how-do-i-install-it)
+     1. [Windows](https://github.com/GyaniSandesh/docker-essentials#so-the-question-arises-what-the-hell-is-docker)
+     2. [Mac Installation](https://github.com/GyaniSandesh/docker-essentials#so-the-question-arises-what-the-hell-is-docker)
+     3. [Linux Installation](https://github.com/GyaniSandesh/docker-essentials#i-want-to-use-docker-for-my-project-how-do-i-install-it)
+4. [Basic Commands](https://github.com/GyaniSandesh/docker-essentials#basics-commands-with-docker)
+5. [Pulling Image into Local Repo Using Docker](https://github.com/GyaniSandesh/docker-essentials#pullling-an-image-in-your-local-repository-using-docker)
+6. [Running Docker Image as a Container](https://github.com/GyaniSandesh/docker-essentials#running-docker-image-as-a-container)
+7. [More Docker Commands](https://github.com/GyaniSandesh/docker-essentials#more-docker-commands)
+8. [More about running the container](https://github.com/GyaniSandesh/docker-essentials#more-docker-commands)
+9. [Bonus](https://github.com/GyaniSandesh/docker-essentials#more-docker-commands)
 
 Hello everybody, it's me Sandesh Regmi and today I am so happy that I am able to complete and publish this quick docker essentials. <br/> 
 So, make sure to go through all of these and I will upload this file in my github repository and make it public.
